@@ -6,6 +6,7 @@ import { OwlOptions } from 'ngx-owl-carousel-o';
   templateUrl: './home.component.html',
   styleUrls: ['./home.component.css']
 })
+
 export class HomeComponent implements OnInit {
 
   customOptions: OwlOptions = {
@@ -34,6 +35,7 @@ export class HomeComponent implements OnInit {
     },
     nav: true
   }
+
   constructor() { }
 
   ngOnInit(): void {
