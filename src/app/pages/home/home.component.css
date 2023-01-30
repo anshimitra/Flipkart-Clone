@@ -1,0 +1,21 @@
+.h1{
+    color: blue;
+}
+.elec p{
+    padding: 0;
+    margin: 0;
+}
+.elec p span{
+    color: green;
+}
+.elec p{
+    padding: 0;
+    margin: 0;
+}
+.materials p{
+    padding: 0;
+    margin: 0;
+}
+.materials p span{
+    color: green;
+}
